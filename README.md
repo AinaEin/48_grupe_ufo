@@ -1,52 +1,78 @@
-# Apie projektą
+![LICENSE](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)
+![Gluten Status](https://img.shields.io/badge/Gluten-Free-green.svg)
+![Eco Status](https://img.shields.io/badge/ECO-Friendly-green.svg)
+[![Discord](https://discord.com/api/guilds/571393319201144843/widget.png)](https://discord.gg/dRwW4rw)
 
-Paprasta paragrafas 
-Paprastas paragrafas su [nuoroda](https://www.google.com/)
+# Ufo
 
-![Ufo nuotrauka](./ufo.jpg)
+_website design project_
 
-## Antro lygio antraštė
+<br>
 
-Lorem ipsum dolor sit **amet, consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco **_laboris_** nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in **voluptate** velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+## 🌟 About
 
+This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-> Text that is a qoute
+Site published at: https://github.com/AinaEin/48_grupe_ufo
 
-> Text that is a qoute
+Design: [Ufo](https://dribbble.com/shots/2815937/attachments/2815937-404-page?mode=media)
 
-> Text that is a qoute
+## 🎯 Project features/goals
 
-> Text that is a qoute
-### Trečio lygio antraštė
+-   Github pages
+-   CSS units: px, %
+-   basic design layout
+-   image with relative paths
 
-```html
-<!DOCTYPE html>
+## 🧰 Getting Started
 
-<html lang="en">
+### 💻 Prerequisites
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ufo</title>
-</head>
+Node.js - _download and install_
 
-<body>
-    CONTENT
-</body>
-
-</html>
+```
+https://nodejs.org
 ```
 
-Lorem ipsum dolor sit _amet, consectetur adipiscing elit_, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Git - _download and install_
 
-#### Ketvirto lygio antraštė
+```
+https://git-scm.com
+```
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+### 🏃 Run locally
 
-##### Penkto lygio antraštė
+Would like to run this project locally? Open terminal and follow these steps:
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+1. Clone the repo
+    ```sh
+    https://github.com/AinaEin/48_grupe_ufo
+    ```
+2. Install NPM packages
+    ```sh
+    npm i
+    ```
+    or
+    ```sh
+    npm install
+    ```
+3. Run the server
+    ```sh
+    npm run dev
+    ```
 
-###### Šešto lygio antraštė
+### 🧪 Running tests
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+There is no tests for this project.
+
+## 🎅 Authors
+
+Aina: [Github](https://github.com/AinaEin)
+
+## ⚠️ License
+
+Distributed under the ISC License. See LICENSE.txt for more information.
+
+## 🔗 Other resources
+
+No other resources.
