@@ -3,17 +3,34 @@
         }
 
         main {
-            display: inline-block; 
-            background-color: yellow; 
+            display: inline-block;  
             width: 50%; 
-            margin-top: 5%; 
+            margin-top: 10%; 
             margin-left: 25%;
         }
 
         div {
-            background-color: pink;
             width: 35%; 
             float: left;
+            margin-top: 50px;
+        }
+
+        h1 {
+            font-size: 100px;
+            margin: 0;
+            font-family: Arial;
+            color: blue;
+        }
+
+        p {
+            margin: 0;
+            font-size: 28px;
+            font-family: Tahoma;
+            text-transform: uppercase;
+        }
+
+        a {
+
         }
 
         img {
